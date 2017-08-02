@@ -1,0 +1,10 @@
+.styleMe {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.containerDiv {
+  display: flex;
+  justify-content: space-around;
+
+}
